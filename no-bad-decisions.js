@@ -1,5 +1,5 @@
 function askForConfirmation() {
-    return confirm('Are you sure you want to merge this pull request after 3pm?');
+    return confirm('Are you going to stick around to monitor these changes? It is after 3pm');
 }
 
 function mergePullRequest(event) {
