@@ -39,5 +39,3 @@ const observer = new MutationObserver(function(mutationsList, _observer) {
 });
 
 observer.observe(document, { childList: true, subtree: true });
-
-main();
