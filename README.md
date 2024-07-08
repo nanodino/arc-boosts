@@ -5,6 +5,7 @@ This is a repo of Arc browser boosts
 ## no-bad-decisions
 
 Prevents merging PRs that will not be monitored at the end of the workday. Runs on github.
+It also encourages you to take a second look to confirm that a PR shouldn't be squash and merged.
 
 ## no-other-people
 
